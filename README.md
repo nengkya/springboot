@@ -1,1 +1,1 @@
-access modifier protected own package, private own class, final doesnt have to instance
+[modifier](https://www.w3schools.com/java/java_modifiers.asp)
