@@ -11,12 +11,14 @@
 [markdown](https://www.markdownguide.org/basic-syntax/)
 
 
+Create file src/main/java/MyApplication.java
+
+```java
 package com.example.myproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-```java
 @SpringBootApplication
 public class DemoApplication {
 
