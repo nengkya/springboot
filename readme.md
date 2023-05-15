@@ -11,7 +11,7 @@
 [markdown](https://www.markdownguide.org/basic-syntax/)
 
 
-Create file src/main/java/MyApplication.java
+Create file src/main/java/DemoApplication.java
 
 ```java
 package com.example.myproject;
