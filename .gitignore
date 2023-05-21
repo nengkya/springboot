@@ -1,9 +1,16 @@
 HELP.md
+<<<<<<< HEAD
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+=======
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+>>>>>>> 71c0745 (import org.springframework.web.bind.annotation.RestController;)
 
 ### STS ###
 .apt_generated
@@ -13,18 +20,24 @@ build/
 .settings
 .springBeans
 .sts4-cache
+<<<<<<< HEAD
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+=======
+>>>>>>> 71c0745 (import org.springframework.web.bind.annotation.RestController;)
 
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+<<<<<<< HEAD
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+=======
+>>>>>>> 71c0745 (import org.springframework.web.bind.annotation.RestController;)
 
 ### NetBeans ###
 /nbproject/private/
@@ -32,6 +45,12 @@ out/
 /dist/
 /nbdist/
 /.nb-gradle/
+<<<<<<< HEAD
+=======
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+>>>>>>> 71c0745 (import org.springframework.web.bind.annotation.RestController;)
 
 ### VS Code ###
 .vscode/
