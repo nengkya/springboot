@@ -24,7 +24,6 @@ public class GreetingController {
 		i = i + 1;
 		return new Greeting(i, String.format(template, name));
 
-
 	}
 
 }
