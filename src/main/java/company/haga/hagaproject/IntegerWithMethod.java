@@ -1,4 +1,4 @@
-public class IntegerWithJava {
+public class IntegerWithMethod {
 
 
 	public static void main(String[] arguments) {
