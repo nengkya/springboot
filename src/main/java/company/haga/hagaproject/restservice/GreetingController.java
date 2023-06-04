@@ -20,9 +20,7 @@ public class GreetingController {
 		@RequestParam(value = "name", defaultValue = "Haga")
 		String name) {
 
-		//return new Greeting(counter.incrementAndGet(), String.format(template, name));
-		i = i + 1;
-		return new Greeting(i, String.format(template, name));
+		return new Greeting(counter.incrementAndGet(), String.format(template, name));
 
 	}
 
