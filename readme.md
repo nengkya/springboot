@@ -4,4 +4,4 @@
 
 [implements](https://www.w3schools.com/java/ref_keyword_implements.asp)
 
-https://spring.io/guides/gs/rest-service/
+https://spring.io/guides
