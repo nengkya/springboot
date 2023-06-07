@@ -15,7 +15,7 @@ public class Rpg {
 }
 
 
-public class Character {
+class Character {
 
 	public int healthPoint;
 
