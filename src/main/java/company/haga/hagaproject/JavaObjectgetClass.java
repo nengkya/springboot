@@ -1,4 +1,6 @@
 /*
+angle bracket
+
 public final Class<?> getClass()
 
 <T> of type T
