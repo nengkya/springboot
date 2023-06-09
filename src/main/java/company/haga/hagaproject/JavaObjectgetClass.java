@@ -1,3 +1,11 @@
+/*
+public final Class<?> getClass()
+
+<T> of type T
+<Integer> of type Integer
+<MyClass> of type MyClass
+*/
+
 package company.haga.hagaproject.getclass;
 
 public class JavaObjectgetClass {
