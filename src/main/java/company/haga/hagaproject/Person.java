@@ -11,7 +11,8 @@ public final class Person {
 	public boolean equals(Object other) {
 		if (other == this) return true;
 		if (other == null) return false;
-		//if (other.getClass())	
+		if (other.getClass() != this.getClass()) return false;
+		return 
 	}
 
 	public static void main(String[] arguments) {
