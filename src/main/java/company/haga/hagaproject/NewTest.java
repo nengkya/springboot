@@ -4,6 +4,8 @@ public class NewTest {
 
 		new Thread();
 
+		new Runnable();
+
 	}
 
 }

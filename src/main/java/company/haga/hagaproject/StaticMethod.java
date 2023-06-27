@@ -1,4 +1,4 @@
-public class Method {
+public class StaticMethod {
 
 	static public float pi() {
 

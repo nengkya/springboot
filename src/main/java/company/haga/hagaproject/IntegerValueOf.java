@@ -1,4 +1,4 @@
-public class IntegerWithMethod {
+public class IntegerValueOf {
 
 
 	public static void main(String[] arguments) {

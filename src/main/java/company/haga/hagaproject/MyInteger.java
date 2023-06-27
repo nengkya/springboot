@@ -1,4 +1,4 @@
-public class Equals {
+public class MyInteger {
 
 	int integer2;
 
@@ -45,7 +45,5 @@ public class IntegerWithParameter {
 
 
 public class IntegerWithSetter {
-
-
 
 }
